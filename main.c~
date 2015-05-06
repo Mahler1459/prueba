@@ -4,8 +4,7 @@ void main (void)
 
 {
 
-printf("que tal github?, yo barbaro");
-
+printf("que tal github?");
 
 }
 
